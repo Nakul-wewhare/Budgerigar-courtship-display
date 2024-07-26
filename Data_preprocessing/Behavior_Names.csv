@@ -1,0 +1,29 @@
+horizontal bob,1
+vertical bob,2
+head jerk,3
+attempt peck,4
+peck,5
+attempt mount,6
+mount,7
+allofeed,8
+allopreen,9
+being preened,10
+warble only,11
+preen self,12
+eat,13
+drink,14
+jump,15
+fly,16
+move,17
+behaviour absent ,18
+a,101
+b,102
+c,103
+d,104
+e,105
+f,106
+m,107
+silence,108
+note absent ,109
+start,110
+stop,111
